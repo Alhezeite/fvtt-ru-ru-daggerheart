@@ -1,0 +1,27 @@
+{
+  "id": "ru-ru-daggerheart",
+  "title": "Daggerheart - Русский перевод",
+  "description": "Перевод листа персонажа системы Daggerheart",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    { "name": "NOTLex" }
+  ],
+  "languages": [
+	  {
+		"lang": "ru",
+		"name": "Русский",
+		"path": "lang/daggerheart.json",
+		"system": "daggerheart"
+	  },
+	  {
+		"lang": "ru",
+		"name": "Русский",
+		"path": "lang/daggerheart-unofficial.json",
+		"system": "daggerheart-unofficial"
+	  }
+  ]
+}
