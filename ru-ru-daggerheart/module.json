@@ -10,18 +10,21 @@
   "authors": [
     { "name": "NOTLex" }
   ],
+  "url": "https://github.com/Alhezeite/fvtt-ru-ru-daggerheart",
+  "manifest": "https://raw.githubusercontent.com/Alhezeite/fvtt-ru-ru-daggerheart/latest-release/module.json",
+  "download": "https://github.com/Alhezeite/fvtt-ru-ru-daggerheart/releases/latest/download/module.zip",
   "languages": [
-	  {
-		"lang": "ru",
-		"name": "Русский",
-		"path": "lang/daggerheart.json",
-		"system": "daggerheart"
-	  },
-	  {
-		"lang": "ru",
-		"name": "Русский",
-		"path": "lang/daggerheart-unofficial.json",
-		"system": "daggerheart-unofficial"
-	  }
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/daggerheart.json",
+      "system": "daggerheart"
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/daggerheart-unofficial.json",
+      "system": "daggerheart-unofficial"
+    }
   ]
 }
