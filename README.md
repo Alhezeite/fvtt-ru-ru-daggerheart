@@ -9,3 +9,6 @@
 
 
 Обязательно для работы: lib-wrapper, babele (их, скорее всего, придеться включить руками)
+
+"Daggerheart © Darrington Press. All rights reserved.
+Этот модуль является неофициальным переводом и не аффилирован с Darrington Press."
