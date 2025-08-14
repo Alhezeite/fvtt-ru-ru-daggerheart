@@ -1044,21 +1044,21 @@
         "emanation": "Эманация",
         "inFront": "Спереди",
         "rect": "Прямоугольник",
-        "ray": "Луча"
+        "ray": "Луч"
       },
       "Traits": {
         "agility": {
           "name": "Проворность",
-          "short": "AGI",
+          "short": "ПРОВ",
           "verb": {
             "sprint": "Бежать",
             "leap": "Прыгать",
-            "maneuver": "Маневр"
+            "maneuver": "Маневрировать"
           }
         },
         "strength": {
           "name": "Сила",
-          "short": "STR",
+          "short": "СИЛ",
           "verb": {
             "lift": "Поднимать",
             "smash": "Ломать",
@@ -1067,7 +1067,7 @@
         },
         "finesse": {
           "name": "Искусность",
-          "short": "FIN",
+          "short": "ИСК",
           "verb": {
             "control": "Управлять",
             "hide": "Скрываться",
@@ -1076,7 +1076,7 @@
         },
         "instinct": {
           "name": "Инстинкт",
-          "short": "INS",
+          "short": "ИНСТ",
           "verb": {
             "perceive": "Замечать",
             "sense": "Чувствовать",
@@ -1085,7 +1085,7 @@
         },
         "presence": {
           "name": "Влияние",
-          "short": "PRE",
+          "short": "ВЛИ",
           "verb": {
             "charm": "Очаровывать",
             "perform": "Исполнять",
@@ -1094,9 +1094,9 @@
         },
         "knowledge": {
           "name": "Интеллект",
-          "short": "KNO",
+          "short": "ИНТ",
           "verb": {
-            "recall": "вызов",
+            "recall": "Вспоминать",
             "analyze": "Изучать",
             "comprehend": "Понимать"
           }

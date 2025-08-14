@@ -1,0 +1,106 @@
+{
+  "Troubadour": {
+    "name": "Менестрель",
+    "description": ""
+  },
+  "Wordsmith": {
+    "name": "Оратор",
+    "description": ""
+  },
+  "Warden of the Elements": {
+    "name": "Хранитель Стихий",
+    "description": ""
+  },
+  "Warden of Renewal": {
+    "name": "Хранитель Жизни",
+    "description": ""
+  },
+  "Stalwart": {
+    "name": "Заступник",
+    "description": ""
+  },
+  "Vengeance": {
+    "name": "Мститель",
+    "description": ""
+  },
+  "Poisoners Guild": {
+    "name": "Гильдия Отравителей",
+    "description": ""
+  },
+  "Executioners Guild": {
+    "name": "Гильдия Палачей",
+    "description": ""
+  },
+  "Juggernaut": {
+    "name": "Джаггернаут",
+    "description": ""
+  },
+  "Martial Artist": {
+    "name": "Мастер Боевых Искусств",
+    "description": ""
+  },
+  "Pact of the Wraithful": {
+    "name": "Пакт Мести",
+    "description": ""
+  },
+  "Pact of the Endless": {
+    "name": "Пакт Вечности",
+    "description": ""
+  },
+  "Wayfinder": {
+    "name": "Путевод",
+    "description": ""
+  },
+  "Beastbound": {
+    "name": "Звериные Узы",
+    "description": ""
+  },
+  "Nightwalker": {
+    "name": "Тень",
+    "description": ""
+  },
+  "Syndicate": {
+    "name": "Синдикат",
+    "description": ""
+  },
+  "Divine Wielder": {
+    "name": "Божественный Воитель",
+    "description": ""
+  },
+  "Winged Sentinel": {
+    "name": "Крылатый Страж",
+    "description": ""
+  },
+  "Primal Origin": {
+    "name": "Первозданное Начало",
+    "description": ""
+  },
+  "Elemental Origin": {
+    "name": "Стихийное Начало",
+    "description": ""
+  },
+  "Call of the Brave": {
+    "name": "Зов Храбреца",
+    "description": ""
+  },
+  "Call of the Slayer": {
+    "name": "Зов Истребителя",
+    "description": ""
+  },
+  "Moon": {
+    "name": "Луна",
+    "description": ""
+  },
+  "Hedge": {
+    "name": "Ведунья",
+    "description": ""
+  },
+  "School of Knowledge": {
+    "name": "Школа Знаний",
+    "description": ""
+  },
+  "School of War": {
+    "name": "Школа Войны",
+    "description": ""
+  }
+}
