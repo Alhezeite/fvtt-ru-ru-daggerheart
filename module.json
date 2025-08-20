@@ -3,39 +3,21 @@
   "title": "Daggerheart - Русский перевод",
   "description": "Перевод библиотек системы Daggerheart. Файлы были взяты с сайта Daggerheart.su",
   "version": "0.5.0",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "authors": [
-    { "name": "NOTLex" }
-  ],
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "authors": [{ "name": "NOTLex" }],
   "url": "https://github.com/Alhezeite/fvtt-ru-ru-daggerheart",
   "manifest": "https://raw.githubusercontent.com/Alhezeite/fvtt-ru-ru-daggerheart/main/module.json",
   "download": "https://github.com/Alhezeite/fvtt-ru-ru-daggerheart/releases/latest/download/ru-ru-daggerheart.zip",
   "esmodules": ["daggerheart-translate.js"],
   "languages": [
-	  {
-		"lang": "ru",
-		"name": "Русский",
-		"path": "lang/daggerheart.json",
-		"system": "daggerheart"
-	  },
-	  {
-		"lang": "ru",
-		"name": "Русский",
-		"path": "lang/daggerheart-unofficial.json",
-		"system": "daggerheart-unofficial"
-	  }
-	],
+    { "lang": "ru", "name": "Русский", "path": "lang/daggerheart.json", "system": "daggerheart" },
+    { "lang": "ru", "name": "Русский", "path": "lang/daggerheart-unofficial.json", "system": "daggerheart-unofficial" }
+  ],
   "dependencies": [
-    {
-      "id": "lib-wrapper",
-      "type": "module"
-    },
-    {
-      "id": "babele",
-      "type": "module"
-    }
-  ]
+    { "id": "lib-wrapper", "type": "module" },
+    { "id": "babele", "type": "module" }
+  ],
+  "flags": {
+    "babele": { "babele.json": "translations/babele.json" }
+  }
 }

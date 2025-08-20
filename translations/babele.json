@@ -1,0 +1,22 @@
+{
+  "baseLanguage": "en",
+  "translations": [
+    {
+      "lang": "ru",
+      "files": [
+        "translations/daggerheart.adversaries.json",
+        "translations/daggerheart.ancestries.json",
+        "translations/daggerheart.armors.json",
+        "translations/daggerheart.beastforms.json",
+        "translations/daggerheart.classes.json",
+        "translations/daggerheart.communities.json",
+        "translations/daggerheart.consumables.json",
+        "translations/daggerheart.domains.json",
+        "translations/daggerheart.environments.json",
+        "translations/daggerheart.loot.json",
+        "translations/daggerheart.subclasses.json",
+        "translations/daggerheart.weapons.json"
+      ]
+    }
+  ]
+}
